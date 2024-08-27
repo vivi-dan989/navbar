@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+body{
+    font-family: sans-serif;
+}
+.form-table{
+    border: 3px solid #333;
+    padding: 15px;
+border-radius: 5px;
+}
+input{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+button{
+    padding: 5px;
+    background:pink:
+    color:white;
+}
